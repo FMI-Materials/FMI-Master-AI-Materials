@@ -25,7 +25,7 @@
 | I        | [Optional 1](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20II/Semester%20I/Optional)                                                      | 2 | 1 | - | - | E  | 6       |
 | I        | [Dissertation Research Project](https://fmi.unibuc.ro/finalizare-studii/)                                   | - | 2 | - | - | V  | 6       |
 | II       | Problem Solving And Search (PSS)                                       | 2 | 1 | - | - | E  | 6       |
-| II       | Special topics in Artificial Intelligence Reinforcement Learning (ST)  | 2 | 1 | - | - | E  | 6       |
+| II       | Special Topics In Artificial Intelligence Reinforcement Learning (ST)  | 2 | 1 | - | - | E  | 6       |
 | II       | [Optional 2](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20II/Semester%20II/Optional)                                                      | 2 | 1 | - | - | E  | 6       |
 | II       | [Dissertation Research Project](https://fmi.unibuc.ro/finalizare-studii/)                                   | - | 7 | - | - | V  | 12      |
 
